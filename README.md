@@ -34,3 +34,6 @@ Por otro lado, la demostración completa se encuentra en [clic aquí](https://dr
 
 ### Galería de autos de lujo
 [![Ver demo](./Public/Images/galeria.png)](./Public/Videos/galeria-luxury.mp4)
+
+
+Proyecto inspirado en https://www.jamesedition.com/
