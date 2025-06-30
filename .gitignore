@@ -1,0 +1,8 @@
+/BD-proyecto
+/BD-mongo/mongodata
+/BD-mongo/*.json
+/BD-mongo/.env
+/ENDPOINTS/venv
+/ENDPOINTS/__pycache__/
+/ENDPOINTS/idCars.py
+/SCRAPPING
